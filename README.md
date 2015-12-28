@@ -1,5 +1,7 @@
 # Badakhshan
 
+*NOTE: This is probably not up to date with recent versions of Lapis, and I do not maintain this anymore.*
+
 ## Presentation
 
 Badakhshan is a skeleton application using [Lapis](http://leafo.net/lapis/). Logic is written in [Lua](http://www.lua.org/), views and configuration in [MoonScript](http://moonscript.org/). The datastore is [Redis](http://redis.io/).
